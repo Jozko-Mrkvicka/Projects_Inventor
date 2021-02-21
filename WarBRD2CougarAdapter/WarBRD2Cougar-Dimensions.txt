@@ -1,0 +1,40 @@
+======
+WarBRD
+======
+(maximalna vonkajsia) dlzka zakladne = 130,0mm
+(vonkajsia) sirka zakladne           =  88,0mm
+
+dlzka otvoru = 65mm
+sirka otvoru = 50mm
+
+vzdialenost otvoru od zadnej hrany = 34,5
+
+pozdlzna vzdialenost vnutornych dier = 76mm
+priecna vzdialenost vnutornych dier  = 60mm
+
+priemer dier (vsetky) = 4,0mm
+
+---
+
+vyska zakladne (bez hornej a spodnej casti) =  57,0mm
+hrubka steny zakladne                       =   2,5mm
+hrubka steny hornej casti zakladne          =   3,0mm
+
+priecna vzdialenost vonkajsich dier hornej casti = 69,0mm
+pozdlzna vzdialenost vonkajsich dier hornej casti = 111,0mm
+
+vzdialenost otvoru od prednej hrany = 26mm
+
+
+
+======
+Cougar
+======
+hrubka steny (a medzery pre spodnu cast) = 3,0mm
+
+---
+
+vzdialenost dier v podstave 160mm
+priemer diery v podstave = 3,5mm
+vonkajsia sirka podstavy = 178mm
+vrch spodnej casti cougra musi byt posunuty minimalne o 13mm + pre istotu 2mm 
